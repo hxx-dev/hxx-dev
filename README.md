@@ -11,11 +11,11 @@
 
 ### 🛠️ Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,notion,vite)](https://skillicons.dev)
 
 ### ☁️ Deployment
 
-[![My Skills](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
 
 ## 🌐 Contact
 
