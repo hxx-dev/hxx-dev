@@ -3,11 +3,15 @@
 
 ### 💻 Language
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ### ⚛️ Library & Framework
 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,zustand,tailwind)](https://skillicons.dev)
+
+### 📚 Currently Learning
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
 
 ### 🛠️ Tools
 
