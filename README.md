@@ -7,7 +7,7 @@
 
 ## 🚀 Tech Stack
 ### 💻 Language
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css)](https://go-skill-icons.vercel.app/)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js)](https://go-skill-icons.vercel.app/)
 ### ⚛️ Library & Framework
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,zustand,tailwindcss)](https://go-skill-icons.vercel.app/)
 ### 🛠️ Tools
